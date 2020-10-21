@@ -11,7 +11,7 @@ public class ExampleBoolean{
 	
 	public static void arrayOfBoolean()
 	{
-		 System.out.println("invoked arrayOfEmail");
+		 System.out.println("invoked arrayOfBoolean");
 	
 		 boolean earthIsFlat=false;
 	     

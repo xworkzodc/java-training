@@ -14,8 +14,9 @@ public class ExampleBoolean{
 		 System.out.println("invoked arrayOfBoolean");
 	
 		 boolean earthIsFlat=false;
+		 boolean skyIsBlue=true;
 	     
-	     boolean[] earthIsFlats={true,false};
+	     boolean[] earthIsFlats={earthIsFlat,skyIsBlue};
 		 int sizeOfArray=earthIsFlats.length;
 		 System.out.println("Total elements "+sizeOfArray);
 		 

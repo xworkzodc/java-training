@@ -8,6 +8,7 @@ float percentageOfStudent;
 double chargeOfElectron;
 boolean earthIsFlat;
 char grade;
+String name;
 fingers=5;
 System.out.println(fingers+" fingers in each hand");
 daysInAYear=365;
@@ -24,5 +25,7 @@ earthIsFlat=false;
 System.out.println(earthIsFlat);
 grade='A';
 System.out.println(grade);
+name="Vena";
+System.out.println(name);
 }
 }

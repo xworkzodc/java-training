@@ -8,6 +8,7 @@ float literacyRateInIndia;
 double valueOfPi;
 boolean earthIsPlanet;
 char bloodGroup;
+String animal;
 numberOfDaysInMonth=31;
 System.out.println(numberOfDaysInMonth+" or 30 days in a month");
 secodsPerHour=3600;
@@ -24,5 +25,7 @@ earthIsPlanet=true;
 System.out.println(earthIsPlanet);
 bloodGroup='A';
 System.out.println(bloodGroup);
+animal="Cat";
+System.out.println(animal);
 }
 }
